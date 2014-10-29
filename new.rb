@@ -2,7 +2,7 @@ class New
 
   def something
     t = []
-    t[] = "something"
+    t[] = 'something'
     t
   end
 
