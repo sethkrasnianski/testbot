@@ -1,6 +1,6 @@
 class Test
 
-  def testing n
+  def testing(n)
     t = Array.new
     t[] = "something"
     t[] = "might"
