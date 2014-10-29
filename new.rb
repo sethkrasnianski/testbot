@@ -1,7 +1,7 @@
 class New
 
   def something
-    t = Array.new
+    t = []
     t[] = "something"
     t
   end

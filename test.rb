@@ -1,7 +1,7 @@
 class Test
 
   def testing(n)
-    t = Array.new
+    t = []
     t[] = "something"
     t[] = "might"
     t[] = "work"
