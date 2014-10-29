@@ -1,7 +1,7 @@
 class OldCommit
 
   def commit(n)
-    t = Array.new
+    t = []
     t[] = 1
     t[] = "test"
     t

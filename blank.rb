@@ -1,7 +1,7 @@
 class Blank
 
   def statement
-    t = Array.new
+    t = []
     t[] = "a statement that is blank"
     t
   end
