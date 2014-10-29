@@ -1,6 +1,6 @@
 class PushTest
 
-  def push n
+  def push(n)
     t = Array.new
     t[] = 1
     t[] = "test"
