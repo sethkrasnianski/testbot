@@ -1,7 +1,7 @@
 class PushTest
 
   def push(n)
-    t = Array.new
+    t = []
     t[] = 1
     t[] = "test"
     t
